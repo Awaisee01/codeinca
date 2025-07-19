@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+>
+  <url>
+    <loc>https://codeinca.com/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://codeinca.com/about</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://codeinca.com/services</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://codeinca.com/contact</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://codeinca.com/blog</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://codeinca.com/faq</loc>
+  </url>
+  <url>
+    <loc>https://codeinca.com/reviews</loc>
+  </url>
+  <url>
+    <loc>https://codeinca.com/privacy</loc>
+  </url>
+  <url>
+    <loc>https://codeinca.com/terms</loc>
+  </url>
+  <url>
+    <loc>https://codeinca.com/disclaimer</loc>
+  </url>
+  <url>
+    <loc>https://codeinca.com/team</loc>
+  </url>
+</urlset>
